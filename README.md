@@ -12,7 +12,7 @@ It highlights attack patterns, financial losses, and impacted sectors.
 ## Folder Structure
 - `/data` – Raw datasets
 - `/tableau` – Tableau workbook and dashboard screenshots
-- '/insights` – In-depth analysis and takeaways
+- `/insights` – In-depth analysis and takeaways
 
 ## Tableau Public Link
 [Global-Cybersecurity-Threat-Trends-Dashboard-2015-2024](https://public.tableau.com/views/Global-Cybersecurity-Threat-Trends-Dashboard-2015-2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

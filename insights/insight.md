@@ -9,8 +9,6 @@ This document summarizes key findings and strategic takeaways derived from the T
 - Cyberattacks have grown **steadily since 2015**, with peaks around **2022–2023**.
 - This trend reflects rising global digitization, especially during and after the pandemic.
 
-> **Insight**: Organizations need to build long-term, scalable security strategies, not just reactive measures.
-
 ---
 
 ## 2. Geographical Risk Distribution
@@ -27,7 +25,7 @@ This document summarizes key findings and strategic takeaways derived from the T
 - The **IT sector** saw the highest number of affected users, followed by **banking**, **healthcare**, and **education**.
 - These sectors often store **personal or financial data**, making them highly valuable targets.
 
-> **Insight**: Industry-specific defenses are critical — one-size-fits-all protection is no longer sufficient.
+> **Insight**: Industry-specific defenses are critical — one-size-fits-all protection is not sufficient.
 
 ---
 
@@ -60,20 +58,10 @@ This document summarizes key findings and strategic takeaways derived from the T
 
 ## 7. Incident Resolution Performance
 
-- The average resolution time for incidents is **36 hours**, which is relatively fast.
-- However, for critical infrastructure or financial systems, even this downtime can be costly.
+- The average resolution time for incidents is **36 hours**.
+- The average resolution time did not show much improvement since 2015.
 
 > **Insight**: Organizations should pair incident response speed with **proactive threat detection** to minimize both duration and impact.
-
----
-
-## Strategic Recommendations
-
-1. **Invest in employee training** to combat social engineering.
-2. **Automate patch management** to close software loopholes.
-3. **Deploy behavioral analytics tools** to detect insider threats.
-4. **Tailor defenses by industry** to address specific risk patterns.
-5. **Monitor geopolitical risk** — nation-state attacks are real and rising.
 
 ---
 
